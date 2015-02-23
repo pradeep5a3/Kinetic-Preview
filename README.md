@@ -9,4 +9,6 @@ kinetic-python: [https://github.com/Seagate/kinetic-py] (https://github.com/Seag
 
 kinetic-cpp: [https://github.com/Seagate/kinetic-cpp-client] (https://github.com/Seagate/kinetic-cpp-client)
 
+kinetic-c: [https://github.com/Seagate/kinetic-c] (https://github.com/Seagate/kinetic-c)
+
 kinetic-protocol: [https://github.com/Seagate/kinetic-protocol] (https://github.com/Seagate/kinetic-protocol)
